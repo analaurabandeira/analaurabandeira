@@ -4,7 +4,7 @@ Meu nome é Ana Laura Bandeira Bento
 
 Estou estudando na Alura
 Estou desenvolvendo línguagem de JavaScrip
-Utilizo esse espaço para minha organização e sompartilhamento dos meu projetos desenvolvindos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvindos
 
 ### Você entrar em contato comigo 📪
 
@@ -12,3 +12,4 @@ Utilizo esse espaço para minha organização e sompartilhamento dos meu projeto
 
 @analaurabandeira.961
 
+![](https://media.tenor.com/NzuEkaPxj9EAAAAi/stitch-stich.gif)
